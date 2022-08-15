@@ -1,7 +1,7 @@
 # MSc Artificial Intelligence [Thesis]
 
-My final year project completed at King's College London for the degree of MSc in AI.
-My solutions are codes written in Python.
-I have 3 neural network models (2 LSTM; 1 CNN).
+Final year project at King's College London.
 
-My report is also available.
+Code written in python
+
+Thesis paper available.
